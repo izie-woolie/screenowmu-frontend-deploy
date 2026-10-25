@@ -24,7 +24,7 @@ function Consent() {
             <span className="mt-2 h-2 w-2 shrink-0 rounded-full bg-red-400" />
             <span>
               ScreenNowMU adalah sebuah aplikasi milik Klinik Kesihatan Slim
-              river bertujuan untuk membantu di dalam saringan, rujukan, promosi
+              River bertujuan untuk membantu di dalam saringan, rujukan, promosi
               dan edukasi tentang merokok.
             </span>
           </li>
